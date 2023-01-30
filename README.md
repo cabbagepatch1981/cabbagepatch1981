@@ -8,7 +8,7 @@
 
 <h2>Welcome to the CabbagePatch!</h2>
 <br />
-- :computer: I’m currently working on my prep for the School of Code Bootcamp - starting March 2023! <br />
+- :computer: I’m currently working on my prep for the <a href="https://www.schoolofcode.com/">School of Code Bootcamp</a> - starting March 2023! <br />
 - :books: I’m currently learning HTML and CSS to prepare for the course - JavaScript FullStack Development <br />
 - 🤔 I’ll be looking for help with soooo much! :laughing: But also hope that I'll be able to help others and get some really strong teamwork going<br />
 - 💬 Why not ask me about why I'm making the move into tech in -gasp - :heavy_exclamation_mark:<em>middle age</em>:heavy_exclamation_mark: <br />
