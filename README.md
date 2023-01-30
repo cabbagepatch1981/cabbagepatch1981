@@ -24,5 +24,5 @@
     <li>knitting and crochet</li>
     <li>coffee</li>
     <li>learning new things!</li>
-    
-    Check out <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener noreferrer">freeCodeCamp</a>.
+</ul>    
+    Check out <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener noreferrer">freeCodeCamp</a>
