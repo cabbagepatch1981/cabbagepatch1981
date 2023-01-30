@@ -23,7 +23,5 @@
     <li>languages (French, German, Italian, Hebrew... and now CODING!</li>
     <li>knitting and crochet</li>
     <li>coffee</li>
-    <li>learning new things!</li>
+    <li>learning new things (with lots of help from <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener noreferrer">freeCodeCamp</a> </li>
 </ul>    
-    Check out <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener noreferrer">freeCodeCamp</a>
-<p>Check out <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener noreferrer">freeCodeCamp</a>.</p>
