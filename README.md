@@ -12,7 +12,7 @@
 - :books: I’m currently learning HTML and CSS to prepare for the course - JavaScript FullStack Development <br />
 - 🤔 I’ll be looking for help with soooo much! :laughing: But also hope that I'll be able to help others and get some really strong teamwork going<br />
 - 💬 Why not ask me about why I'm making the move into tech in -gasp - :heavy_exclamation_mark:<em>middle age</em>:heavy_exclamation_mark: <br />
-- :heart: <a href="https://www.dailymotion.com/video/x8mhe4">Young at Heart</a> <br />
+- :heart: <a href="https://www.dailymotion.com/video/x8mhe4" target=”_blank” >Young at Heart</a> <br />
 - <strong>Favourite things</strong> 
 <ul>
     <li>not taking myself seriously</li>
