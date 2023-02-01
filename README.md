@@ -1,3 +1,4 @@
+
 ### <h1>Hello World! 🌍 🌎 🌏 🌗 🌠 </h1>
 
 <!--
@@ -6,6 +7,7 @@
 
 -->
 
+    
 <h2>Welcome to the CabbagePatch!</h2>
 <br />
 - :computer: I’m currently working on my prep for coding course! <br />
@@ -20,7 +22,7 @@
     <li>hiking</li>
     <li>cycling</li>
     <li>novels - Anna Karenina is my favourite of all time</li>
-    <li>languages (French, German, Italian, Hebrew... and now CODING!</li>
+    <li>languages (French, German, Italian, Hebrew... and now CODING!)</li>
     <li>knitting and crochet</li>
     <li>coffee</li>
     <li>learning new things (with lots of help from the fantastic <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener noreferrer">freeCodeCamp</a>)</li>
