@@ -10,8 +10,8 @@
     
 <h2>Welcome to the CabbagePatch!</h2>
 <br />
-- :computer: I’m currently working on my prep for the School of Code bootcamp! <br />
-- :books: I’m currently learning HTML and CSS to prepare for the course... update March 2023 looking at basic JavaScript!  <br /> 
+- :computer: I’m currently studyig at the School of Code bootcamp! <br />
+- :books: I’m currently learning JavaScript on my journey to being a full stack web developer!  <br /> 
 - 🤔 I’ll be looking for help with soooo much! :laughing: But also hope that I'll be able to help others and get some really strong teamwork going<br />
 - 💬 Why not ask me about why I'm making the move into tech in - gasp - :heavy_exclamation_mark:<em>middle age</em>:heavy_exclamation_mark: <br />
 - :heart: <a href="https://www.dailymotion.com/video/x8mhe4" target="_blank">Young at Heart</a> <br />
